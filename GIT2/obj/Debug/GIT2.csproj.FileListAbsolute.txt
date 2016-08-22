@@ -1,1 +1,9 @@
 D:\Visual Studio Projects\GIT2\GIT2\bin\Debug\GIT2.exe.config
+D:\Visual Studio Projects\GIT2\GIT2\bin\Debug\GIT2.exe
+D:\Visual Studio Projects\GIT2\GIT2\bin\Debug\GIT2.pdb
+D:\Visual Studio Projects\GIT2\GIT2\obj\Debug\GIT2.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\GIT2\GIT2\obj\Debug\GIT2.Form1.resources
+D:\Visual Studio Projects\GIT2\GIT2\obj\Debug\GIT2.Properties.Resources.resources
+D:\Visual Studio Projects\GIT2\GIT2\obj\Debug\GIT2.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\GIT2\GIT2\obj\Debug\GIT2.exe
+D:\Visual Studio Projects\GIT2\GIT2\obj\Debug\GIT2.pdb
