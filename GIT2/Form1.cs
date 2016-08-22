@@ -19,7 +19,7 @@ namespace GIT2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "test";
+            label1.Text = "text";
         }
     }
 }
