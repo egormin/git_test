@@ -24,7 +24,7 @@ namespace GIT2
             if (label1.Text== "text111")
             {
                 label1.Text = "ABRAKADABRA3";
-                label1.Text = "vet2";
+                label1.Text = "vetka2";
             }
         }
     }
