@@ -28,6 +28,7 @@ namespace GIT2
                 label1.Text = "master";
 
 
+
                 label1.Text = "vetka2";
 
             }
