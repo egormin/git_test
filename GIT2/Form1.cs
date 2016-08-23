@@ -29,7 +29,7 @@ namespace GIT2
 
 
 
-                label1.Text = "vetka2";
+                label1.Text = "vetka2"; string ee = "se";
 
             }
         }
