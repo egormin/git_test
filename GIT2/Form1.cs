@@ -25,6 +25,7 @@ namespace GIT2
             {
                 label1.Text = "ABRAKADABRA3";
                 label1.Text = "vetka2";
+                string ee = "se";
             }
         }
     }
